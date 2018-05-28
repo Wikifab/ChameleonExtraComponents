@@ -1,0 +1,12 @@
+{
+	"name": "ChameleonExtraComponents",
+	"author": "julien",
+	"version": "1.0.0",
+	"descriptionmsg": "ChameleonExtraComponents",
+	"license-name": "GPL-2.0+",
+	"type": "parserhook",
+	"AutoloadClasses": {
+		"Skins\\Chameleon\\Components\\MessageContent":"components/MessageContent.php"
+	},
+	"manifest_version": 1
+}
